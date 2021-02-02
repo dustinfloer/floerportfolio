@@ -1,0 +1,77 @@
+.navbar {
+	margin: 0;
+}
+
+.navbar-default {
+	background-color: black;
+}
+
+.navbar-brand {
+	padding: 0;
+}
+
+.navbar-logo-img {
+	width: 140px;
+    height: auto;
+    padding: 2% 0;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-btn {
+	margin-top: 24px;
+}
+
+.hero-full-container {
+	padding: 0;
+}
+
+.background-image-container {
+	background-color: black;
+	padding: 5% 0;
+	background-image: none;
+}
+
+.hero-image {
+	max-width: 600px;
+	height: auto;
+}
+
+.hero-title {
+	animation: bounce;
+	animation-duration: 1.4s;
+}
+
+.hero-subtitle-container {
+	margin-top: -80px;
+}
+
+.hero-subtitle {
+	animation: jello;
+	animation-duration: 1.8s;
+}
+
+.btn:hover {
+	color: grey;
+	background-color: white;
+}
+
+.company-logos {
+	display: flex;
+	justify-content: center;
+}
+
+.footer-container {
+	background-color: black;
+}
+
+.footer-header {
+	color: white;
+}
+
+
+
+
+
