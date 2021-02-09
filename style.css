@@ -102,6 +102,18 @@ h2:after {
 	background-color: #A8ADAD;
 }
 
+.about-image {
+	max-width: 400px;
+	height: auto;
+	border-radius: 50%;
+}
+
+@media only screen and (max-device-width: 768px) {
+	.about-image {
+		display: none;
+	}
+}
+
 #projects {
 	background-color: #A8ADAD;
 }
