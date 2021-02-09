@@ -54,13 +54,28 @@
 }
 
 .btn:hover {
-	color: grey;
-	background-color: white;
+	color: white;
+	background-color: #A8ADAD;
+}
+
+#projects {
+	background-color: #A8ADAD;
 }
 
 .company-logos {
 	display: flex;
 	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.company-logos a:hover {
+	animation: pulse;
+	animation-duration: 1.5s;
+}
+
+.company-logos img {
+	height: auto;
+	max-width: 330px;
 }
 
 .footer-container {
