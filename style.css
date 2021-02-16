@@ -118,6 +118,12 @@ h2:after {
 	background-color: #A8ADAD;
 }
 
+.company-subheader {
+	color: black;
+	animation: fadeInUp;
+	animation-duration: 1.8s;
+}
+
 .company-logos {
 	display: flex;
 	justify-content: center;
