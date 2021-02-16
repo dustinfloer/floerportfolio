@@ -120,8 +120,6 @@ h2:after {
 
 .company-subheader {
 	color: black;
-	animation: fadeInUp;
-	animation-duration: 1.8s;
 }
 
 .company-logos {
