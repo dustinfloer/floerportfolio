@@ -17,7 +17,7 @@ app.listen(PORT, () => {
 });
 
 const transporter = nodemailer.createTransport({
-  service: "gmail",
+  service: "yahoo",
   auth: {
     user: process.env.EMAIL,
     pass: process.env.PASS,
