@@ -1,0 +1,25 @@
+{
+  "name": "floer-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.0cf8b554.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinfloer/floerportfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dustinfloer/floerportfolio/issues"
+  },
+  "homepage": "https://github.com/dustinfloer/floerportfolio#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "multiparty": "^4.2.2",
+    "nodemailer": "^6.4.18"
+  }
+}
